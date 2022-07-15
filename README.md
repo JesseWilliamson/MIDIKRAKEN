@@ -1,4 +1,4 @@
 # MIDIKRAKEN
 A simple, Arduino-based midi controller
 
-![alt text](images/bw-outline)
+Not maintained, preserved for possible future work
